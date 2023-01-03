@@ -47,13 +47,6 @@
 Если файлы заархивированы в .rnx.zip
 
 
-## Roadmap
-
-- Восстановление ионосферы
-
-- Загрузка на сервер и улучшени плоттера
-
-
 ## Пример использования
 
 После настройки параметров среды в main.py можно запустить в 2х "режимах" - для расчета DCB и STEC/VTEC.
@@ -79,18 +72,8 @@ time_step отвечает за интервалы между вычислени
 ```python
 writer_dcb(path_to_rx, path_to_dcb, string_date, pattern, time_step=60, first_start=False)
 ```
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Документация
-
-Находится в папке sphinx/html файл index.html
 
 
 ## Authors
 
 - [@Tachikoma-r](https://github.com/Tachikoma-r)
-- 
-
