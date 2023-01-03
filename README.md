@@ -5,7 +5,7 @@
 
 
 ## Установка
-Скачать python c https://www.python.org/downloads/ или anaconda https://www.anaconda.com/products/distribution. Желательно еще установить IDE, как PyCharm или Visual Studio.
+Скачать python c https://www.python.org/downloads/ или anaconda https://www.anaconda.com/products/distribution
 
 Для установки проекта можно установить пакеты отдельно
 Для работы tec и dcb
