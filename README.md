@@ -23,10 +23,6 @@
   pip install plotly
   
 ```
- или установить по requirements.txt
-```bash
-  pip install -r requirements.txt
-```
     
 ## Переменные среды
 
